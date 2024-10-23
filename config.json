@@ -1,0 +1,5 @@
+{
+  "days": 5,
+  "cities": ["Saint Petersburg", "San Francisco", "Novosibirsk", "Anshan"],
+  "update-frequency": 10
+}
